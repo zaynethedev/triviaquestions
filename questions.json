@@ -2,7 +2,7 @@
     "Geography": [
         {
             "question": "What is the capital of France?",
-            "image": "https://example.com/image1.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "Berlin",
                 "b": "Madrid",
@@ -13,7 +13,7 @@
         },
         {
             "question": "Which continent is the Sahara Desert located in?",
-            "image": "https://example.com/image4.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "Asia",
                 "b": "Africa",
@@ -26,7 +26,7 @@
     "Literature": [
         {
             "question": "Who wrote 'To Kill a Mockingbird'?",
-            "image": "https://example.com/image2.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "Harper Lee",
                 "b": "Mark Twain",
@@ -37,7 +37,7 @@
         },
         {
             "question": "What is the first name of Mr. Darcy in 'Pride and Prejudice'?",
-            "image": "https://example.com/image5.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "Charles",
                 "b": "Edward",
@@ -50,7 +50,7 @@
     "Science": [
         {
             "question": "What is the chemical symbol for water?",
-            "image": "https://example.com/image3.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "O2",
                 "b": "H2O",
@@ -61,7 +61,7 @@
         },
         {
             "question": "What planet is known as the Red Planet?",
-            "image": "https://example.com/image6.jpg",
+            "image": "https://raw.githubusercontent.com/zaynethedev/triviaquestions/main/images/capitalfrance.png",
             "answers": {
                 "a": "Earth",
                 "b": "Mars",
