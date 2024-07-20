@@ -1,0 +1,74 @@
+{
+    "Geography": [
+        {
+            "question": "What is the capital of France?",
+            "image": "https://example.com/image1.jpg",
+            "answers": {
+                "a": "Berlin",
+                "b": "Madrid",
+                "c": "Paris",
+                "d": "Rome"
+            },
+            "correct_answer": "c"
+        },
+        {
+            "question": "Which continent is the Sahara Desert located in?",
+            "image": "https://example.com/image4.jpg",
+            "answers": {
+                "a": "Asia",
+                "b": "Africa",
+                "c": "North America",
+                "d": "Australia"
+            },
+            "correct_answer": "b"
+        }
+    ],
+    "Literature": [
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "image": "https://example.com/image2.jpg",
+            "answers": {
+                "a": "Harper Lee",
+                "b": "Mark Twain",
+                "c": "Ernest Hemingway",
+                "d": "F. Scott Fitzgerald"
+            },
+            "correct_answer": "a"
+        },
+        {
+            "question": "What is the first name of Mr. Darcy in 'Pride and Prejudice'?",
+            "image": "https://example.com/image5.jpg",
+            "answers": {
+                "a": "Charles",
+                "b": "Edward",
+                "c": "Fitzwilliam",
+                "d": "George"
+            },
+            "correct_answer": "c"
+        }
+    ],
+    "Science": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "image": "https://example.com/image3.jpg",
+            "answers": {
+                "a": "O2",
+                "b": "H2O",
+                "c": "CO2",
+                "d": "H2"
+            },
+            "correct_answer": "b"
+        },
+        {
+            "question": "What planet is known as the Red Planet?",
+            "image": "https://example.com/image6.jpg",
+            "answers": {
+                "a": "Earth",
+                "b": "Mars",
+                "c": "Jupiter",
+                "d": "Saturn"
+            },
+            "correct_answer": "b"
+        }
+    ]
+}
